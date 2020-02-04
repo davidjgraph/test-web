@@ -2,7 +2,7 @@ name: diagrams.net site
 permalink: /blog/:slug
 
 url: ''
-baseurl: '/'
+baseurl: '/test-web/'
 
 
 collections:

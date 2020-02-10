@@ -1,7 +1,7 @@
 name: diagrams.net site
 permalink: /blog/:slug
 
-url: ''
+url: '/test-web'
 baseurl: '/test-web/'
 
 
